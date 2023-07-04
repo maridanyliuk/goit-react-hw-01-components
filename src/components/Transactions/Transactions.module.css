@@ -1,0 +1,36 @@
+table {
+  
+margin: auto;
+    box-shadow: 0 0 10px #FCFCFC;
+    width: 370px;
+    border-spacing: 0;
+}
+
+.thead>tr {
+    margin-bottom: 5px;
+    padding: 10px;
+}
+
+.thItem {
+    font-weight: 800;
+    font-size: 20px;
+    margin-bottom: 5px;
+    color: #2F2F2F;
+}
+
+.tdItem {
+    padding: 10px;
+    width: inherit;
+    font-weight: 700;
+    font-size: 15px;
+    color: #2F2F2F;
+    justify-content: center;
+}
+
+.trItem{
+    padding: 10px;
+    border: 1px solid FCFCFC;
+text-align: center;
+
+}
+
